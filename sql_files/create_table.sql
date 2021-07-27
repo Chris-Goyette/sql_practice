@@ -17,4 +17,4 @@ CREATE TABLE pets
     sex VARCHAR(20) DEFAULT 'Not Available',
     age INT DEFAULT 'Not Available' 
 
-)
+);
