@@ -1,3 +1,5 @@
+Note - This readme is still under construction. 
+
 ### Common commands
 
 - First you need to access the MySQL shell by using `mysql-ctl cli`
